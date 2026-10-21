@@ -10,7 +10,9 @@
 
 
 <details>
+
  <b>Тест-кейсы разделены на смысловые блоки древовидной струкутурой c приоритезацией.</b>
+
 <summary> Пример организации библиотеки тестов</summary>
 
 ![testbible](./images/testbible.png)
@@ -20,8 +22,10 @@
 
 
 <details>
+
 <b>Чеклист для смоук проверки е2е сценария.</b>
 <summary>Пример чеклиста е2е сценария</summary>
+
 
 ![checklist](./images/checklist.png)
 </details>
@@ -35,6 +39,7 @@
 <details>
 
 <b>В тест-кейсе использован параметр %base_url для удобной смены окружения.</b>
+
 <summary> Пример тест-кейса</summary>
 
 ![testcase2](./images/testcase2.png)
@@ -54,6 +59,7 @@
 
 
 <details>
+
 <summary>Собранный тест-план из параметризированных тест-кейсов</summary>
 
 ![testplan](./images/testplan.png)
