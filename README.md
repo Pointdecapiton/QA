@@ -5,8 +5,8 @@
 ## Тестовая документация проекта
 
 
-* **[Тест-кейсы и чек-листы](./qa-docs/test-cases/test-cases.md)**
-* **[Баг-репорты](./qa-docs/bug-reports/README.md)** 
+* **[Тест-кейсы и чек-листы](./qa-docs/test-cases.md)**
+* **[Баг-репорты](./qa-docs/bug-reports.md)** 
 
 
 ## Старт
@@ -81,7 +81,7 @@ Adminer login: system `PostgreSQL`, server `postgres`, username `qa_user`, passw
 
 ## Grafana
 
-
+Старт
 
 ```logql
 {job="qa-api"}
@@ -116,4 +116,5 @@ SELECT username, balance, is_premium FROM users WHERE status = 'active' ORDER BY
 ```
 **ТАБЛИЦЫ**
 
-![таблица](./images/bd.png)
+![таблица](./qa-docs/images/bd.png)
+
