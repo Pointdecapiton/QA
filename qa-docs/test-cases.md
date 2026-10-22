@@ -32,9 +32,6 @@
 
 
 
-
-
-
 <details>
 
 <summary> Пример тест-кейса</summary>
